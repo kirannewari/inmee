@@ -214,7 +214,7 @@ button {
 .header_section{
 	width: 100%;
 	float: left;
-	background-image: url(../images/b2.jpg);
+	background-image: url(../images/bg3.jpg);
 	height: auto;
 	padding: 20px 0px;
 	background-size: 100%;
@@ -369,19 +369,19 @@ body{
     
 }
 
-.collection_section{ width: 100%; float: left; padding-bottom: 0px; }
+.collection_section{ width: 100%; float: left; padding-bottom: 100px; }
 .new_text{
 	width: 100%;
 	float: left;
 	font-size: 24pt;
-	color: #0c0116;
+	color: #0f0b16;
 }
 
 .consectetur_text{
 	width: 100%;
 	float: left;
 	font-size: 14pt;
-	color: #0c0116;
+	color: #150f1a;
 	font-weight: 400;
 	margin-left: 0px;
     padding-bottom: 30px;
@@ -475,11 +475,17 @@ body{
     margin-bottom: 90px;
 }
 
-.collectipn_section_3{ width: 100%; float: left; padding-top: 0px;}
+.collectipn_section_3{ 
+    width: 100%;
+    float: left;
+    padding-top: 50px;
+    background-color:#935526;
+    color: rgb(241, 234, 234);
+}
 .racing_shoes {
     width: 100%;
     float: left;
-    background-color: #eae7e7;
+    background-color: #341809;
     height: auto;
     padding-top: 70px;
     background-size: 100%;
@@ -502,7 +508,7 @@ body{
 	width: 100%;
 	float: left;
 	font-size: 45pt;
-	color: #ed2540;
+	color: #de8847;
 	line-height: 75px;
 }
 
@@ -510,7 +516,7 @@ body{
 	width: 100%;
 	float: left;
 	font-size: 45pt;
-	color: #ed2540;
+	color: #de8847;
 	line-height: 75px;
 
 }
@@ -595,7 +601,7 @@ body{
 }
 
 .contact_section{
-	width: 100%;
+	width: 93%;
 	float: left;
 }
 .email_box {
@@ -653,7 +659,7 @@ a:hover {
 .shop_banner{
 	width: 100%;
 	float: left;
-	background-image: url(../images/shop.jpg);
+	background-image: url(../images/shop2.jpg);
 	height: auto;
 	padding: 70px;
 }
@@ -795,4 +801,7 @@ a:hover {
     width: 100%;
     height: auto;
     background: #0c0116;
+}
+.gap{
+    height: 50px;
 }
