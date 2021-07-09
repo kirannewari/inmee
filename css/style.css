@@ -214,7 +214,7 @@ button {
 .header_section{
 	width: 100%;
 	float: left;
-	background-image: url(../images/bg4.jpg);
+	background-image: url(../images/bg6.jpg);
 	height: auto;
 	padding: 20px 0px;
 	background-size: 100%;
@@ -289,7 +289,7 @@ button {
 	width: 32%;
 	height: 50px;
 	color: #ffffff;
-	background-color: #4f2c66;
+	background-color: #161941;
 	color: #ffffff;
 	font-size: 16pt;
  }
@@ -468,7 +468,7 @@ body{
 	width: 32%;
 	height: 50px;
 	color: #ffffff;
-	background-color: #caa5e4;
+	background-color: #1c082b;
 	color: #ffffff;
 	font-size: 16pt;	
 	margin-top: 35px;
@@ -479,7 +479,7 @@ body{
     width: 100%;
     float: left;
     padding-top: 50px;
-    background-color:#935526;
+    background-color:#dba073;
     color: rgb(241, 234, 234);
 }
 .racing_shoes {
@@ -534,7 +534,7 @@ body{
 .gallery_section{
 	width: 100%;
 	float: left;
-	background-color: #caa5e4;
+	background-color: #d8ccf0;
 	height: auto;
 
 }
